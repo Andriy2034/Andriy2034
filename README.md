@@ -1,8 +1,14 @@
 👋 Hi, I'm Andriy Milevskiy
+
       Junior Front-End Developer | HTML5 | CSS3 | JavaScript | React 
+      
 Front-End developer with experience in JavaScript, React. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
+
+
 🧰 Tech Stack  
 HTML | CSS | JavaScript | TypeScript | React | Next.js
+
+
 💻Featured Projects:
       Image search, Link [HTML, CSS, JS] Website for searching photos.
 Role: Developer. A simple, functional, and stylized search engine website. Key features
@@ -27,9 +33,13 @@ project are:
 responsive graphics.
 3) Typography, colors, and interactive states follow a unified system, with utility
 classes reused to organize the codebase.
+
+
 🗣️ Languages
 English - Pre-Intermediate
 Ukrainian - Native
+
+
 📫 How to reach me:  
 LinkedIn - (https://www.linkedin.com/in/andriy-milevskiy/) 
 Telegram - (https://t.me/Andriy_Volo)
