@@ -1,5 +1,3 @@
-## Hi there 👋
-
 👋 Hi, I'm Andriy Milevskiy
       Junior Front-End Developer | HTML5 | CSS3 | JavaScript | React 
 Front-End developer with experience in JavaScript, React. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working, adhering to best practices in coding, version control (Git), and performance optimisation techniques. Strong problem-solving skills and a proactive approach to developing scalable web solutions.
