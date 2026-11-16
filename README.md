@@ -43,5 +43,5 @@ Ukrainian - Native
 📫 How to reach me:  
 LinkedIn - (https://www.linkedin.com/in/andriy-milevskiy/) 
 Telegram - (https://t.me/Andriy_Volo)
-Email - (mailto:andrijmilevskiy@gmail.com)
+Email - (mailto:andrijmilevskij@gmail.com)
 
